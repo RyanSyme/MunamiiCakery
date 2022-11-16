@@ -70,7 +70,7 @@ a:hover {
 
 .callout-container {
     height: 60vh;
-    background: url(../images/background.jpg) no-repeat bottom right fixed;
+    background: url(images\background.jpg.jpg) no-repeat bottom right fixed;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -91,7 +91,7 @@ a:hover {
 
 .about-container {
     height: 81vh;
-    background: url(../images/background.jpg) no-repeat bottom right fixed;
+    background: url(images/background.jpg) no-repeat bottom right fixed;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -114,7 +114,7 @@ a:hover {
 
 .contact-container {
     height: 81vh;
-    background: url(../images/background.jpg) no-repeat bottom right fixed;
+    background: url(..\images\background.jpg) no-repeat bottom right fixed;
     background-size: cover;
     display: flex;
     align-items: center;
